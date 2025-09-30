@@ -31,3 +31,5 @@
 - [[～わけだ・～というわけだ]]
 - ～わけではない・～というわけではない
 - ～わけにはいかない
+
+Source: [Meguro Language Center](https://www.mlcjapanese.co.jp/n3.html)
