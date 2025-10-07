@@ -8,7 +8,7 @@ views:
     name: Table
     filters:
       and:
-        - file.inFolder("japanese-workspace/N3/Kanji")
+        - file.hasProperty("id")
     order:
       - file.name
       - class
