@@ -22,6 +22,12 @@ views:
     sort:
       - property: id
         direction: ASC
+      - property: reading
+        direction: ASC
+      - property: difficulty
+        direction: ASC
+      - property: class
+        direction: ASC
     columnSize:
       note.radical: 113
 
