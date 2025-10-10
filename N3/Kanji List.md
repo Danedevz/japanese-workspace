@@ -29,7 +29,9 @@ views:
       - property: class
         direction: ASC
     columnSize:
+      note.meaning: 172
       note.radical: 113
+    rowHeight: tall
 
 ```
 
